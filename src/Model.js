@@ -1,4 +1,5 @@
 const initModel = {
+    currentWeather: 0,
     description: '',
     temp: 0,
     low: 0,
